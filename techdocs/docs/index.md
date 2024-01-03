@@ -1,6 +1,11 @@
 # Online-Movie-Ticket-Booking-Script-Free
 Online Movie Ticket Booking Script (Theatre booking system) is a website to provide the customers facility to book tickets for a movie online and to gather information about the movies and theaters. Customer needs to register at the site to book tickets to the movie. After selecting the show, the user is presented a seating layout so that he can select seats of his choice.
 
+# High Level Architecture
+![Architecture](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png)
+<details>
+  <summary>Technical Details</summary>
+
 | Feature       | Status        |
 | ------------- | ------------- |
 | Admin, Agent, User Login  | Yes  |
@@ -11,10 +16,6 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 | SMS Integration  | Yes  |
 | SEO Friendly  | Yes  |
 
-# High Level Architecture
-![Architecture](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png)
-<details>
-  <summary>Technical Details</summary>
   
 ## How to Run
   1) Install PHP server xampp
