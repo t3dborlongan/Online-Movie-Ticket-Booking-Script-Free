@@ -11,7 +11,8 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 | SMS Integration  | Yes  |
 | SEO Friendly  | Yes  |
 
-
+# High Level Architecture
+![Architecture](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png)
 <details>
   <summary>Technical Details</summary>
   
