@@ -13,13 +13,13 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Technical Details</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+## How to Run
+  1) Install PHP server xampp
+  2) Run it
+  3) Clone this repo into htdocs of xampp
+  3) Download cinema_choodu.sql file in this repo and import to phpmyadmin or mysql and simple run it.
 </details>
 
 
@@ -39,15 +39,6 @@ Before forking this repo I would like to clarify few things
 <b>Url:</b> http://cinemachoodu.com/admin/zzzxxxmmmvvv.php
 <b>Username:</b> admincinema
 <b>Password:</b> --mnbvcxz--
-
-# How to Run
-1) Install PHP server xampp
-2) Run it
-3) Clone this repo into htdocs of xampp
-3) Download cinema_choodu.sql file in this repo and import to phpmyadmin or mysql and simple run it.
-
-if any issues feel free to mail me vydyas@gmail.com
-my linkedin : https://www.linkedin.com/in/siddhucse/
 
 # Admin panel screenshots of script
 
