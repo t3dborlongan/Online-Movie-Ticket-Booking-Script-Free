@@ -12,8 +12,7 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 | SEO Friendly  | Yes  |
 
 # High Level Architecture
- ![Architecture_Diagram](/images/TheatreBookingDiagram.png)
-
+ ![/images/TheatreBookingDiagram.png](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png)
 
 # How to Run
 1. Install PHP server xampp
