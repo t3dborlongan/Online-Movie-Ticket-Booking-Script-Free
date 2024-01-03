@@ -12,7 +12,7 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 | SEO Friendly  | Yes  |
 
 # High Level Architecture
- ![Architecture_Diagram](https://testandexplore.blob.core.windows.net/images/TheatreBookingDiagram.png)
+ ![Architecture_Diagram](../../images/TheatreBookingDiagram.png)
 
 
 # How to Run
