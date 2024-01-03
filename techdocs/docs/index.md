@@ -1,11 +1,6 @@
 # Online-Movie-Ticket-Booking-Script-Free
 Online Movie Ticket Booking Script (Theatre booking system) is a website to provide the customers facility to book tickets for a movie online and to gather information about the movies and theaters. Customer needs to register at the site to book tickets to the movie. After selecting the show, the user is presented a seating layout so that he can select seats of his choice.
 
-# High Level Architecture
-![Architecture](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png)
-<details>
-  <summary>Technical Details</summary>
-
 | Feature       | Status        |
 | ------------- | ------------- |
 | Admin, Agent, User Login  | Yes  |
@@ -16,14 +11,15 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 | SMS Integration  | Yes  |
 | SEO Friendly  | Yes  |
 
-  
-## How to Run
+# High Level Architecture
+ ![Architecture_Diagram](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png)
+
+
+# How to Run
   1) Install PHP server xampp
   2) Run it
   3) Clone this repo into htdocs of xampp
   3) Download cinema_choodu.sql file in this repo and import to phpmyadmin or mysql and simple run it.
-</details>
-
 
 # SEO Friendly
 ![screen shot 2018-12-09 at 12 04 15 pm](https://user-images.githubusercontent.com/2999586/49694166-89389900-fbaa-11e8-9b64-3d7930176630.png)
