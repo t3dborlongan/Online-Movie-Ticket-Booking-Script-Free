@@ -1,44 +1,77 @@
-# Ticket Booking
-Online Movie Ticket Booking Script (Theatre booking system) is a website to provide the customers facility to book tickets for a movie online and to gather information about the movies and theaters. Customer needs to register at the site to book tickets to the movie. After selecting the show, the user is presented a seating layout so that he can select seats of his choice.
+# Ticket Booking App Technical Document
 
-| Feature       | Status        |
+## 1. Introduction
+
+### 1.1 Purpose
+The purpose of this document is to provide a comprehensive overview of the technical aspects of the Ticket Booking App. It covers the system architecture, technologies used, and key functionalities.
+
+### 1.2 Scope
+The Ticket Booking App aims to facilitate the seamless booking of tickets for various events, movies, or transportation services.
+
+## 2. System Architecture
+ ![/images/TheatreBookingDiagram.png](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png?raw=true)
+| System Component       | Tech Stack        |
 | ------------- | ------------- |
-| Admin, Agent, User Login  | Yes  |
-| Adding Multiple Theatres  | Yes  |
-| Adding Dynamic Seating for theatres  | Yes  |
-| Agent Recharge System  | Yes  |
-| Payment Gateway Integration  | Yes  |
-| SMS Integration  | Yes  |
+| Client-side Mobile  | React Native  |
+| Client-side Web  | HTML, CSS, and ReactJS  |
+| Backend Server  | Node.js + Express  |
+| Database  | PostgreSQL  |
+| Authentication  | JSON Web Tokens (JWT)  |
+| Communication  | Restful API  |
 | SEO Friendly  | Yes  |
 
-# High Level Architecture
- ![/images/TheatreBookingDiagram.png](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png?raw=true)
-
-# Executing the app
- 1. Install PHP server xampp
- 2. Run it
- 3. Clone this repo into htdocs of xampp
- 4. Download cinema_choodu.sql file in this repo and import to phpmyadmin or mysql and simple run it.
-
- 
-# SEO Friendly
-![screen shot 2018-12-09 at 12 04 15 pm](https://user-images.githubusercontent.com/2999586/49694166-89389900-fbaa-11e8-9b64-3d7930176630.png)
 
 
-# Admin Panel Details
-<b>Url:</b> http://cinemachoodu.com/admin/zzzxxxmmmvvv.php
-<b>Username:</b> admincinema
-<b>Password:</b> --mnbvcxz--
+## 3. Key Features
 
-# Admin panel screenshots of script
+### 3.1 User Authentication
+- Secure user registration and login mechanisms.
+- Password hashing for user credentials.
 
-![screen shot 2018-12-09 at 11 55 27 am](https://user-images.githubusercontent.com/2999586/49694084-3dd1bb00-fba9-11e8-91ed-8447d8d119c7.png)
-![screen shot 2018-12-09 at 11 55 35 am](https://user-images.githubusercontent.com/2999586/49694087-41fdd880-fba9-11e8-805d-a0b020656da9.png)
+### 3.2 Event/Movie Listings
+- Display of available events/movies with relevant details.
+- Search and filter functionalities.
 
-# Frontend screenshots
+### 3.3 Booking and Payment
+- Selection of desired tickets/seats.
+- Integration with payment gateways (e.g., Stripe, PayPal).
 
-![screen shot 2018-12-09 at 11 58 02 am](https://user-images.githubusercontent.com/2999586/49694113-95702680-fba9-11e8-871d-ebf8b5684f52.png)
-![screen shot 2018-12-09 at 11 58 21 am](https://user-images.githubusercontent.com/2999586/49694115-97d28080-fba9-11e8-8204-c0c52062122d.png)
+### 3.4 User Profiles
+- Personalized user profiles with booking history.
+- Option to save payment methods.
 
+### 3.5 Notifications
+- Real-time notifications for booking confirmations, updates, and reminders.
 
+### 3.6 Admin Panel
+- Administrative interface for managing events, user data, and monitoring system activities.
+
+## 4. Data Storage
+
+- Database schema design to efficiently store user data, events, bookings, and payment information.
+- Regular backups and data encryption for security.
+
+## 5. Security Measures
+
+- Secure Sockets Layer (SSL) for data encryption during transmission.
+- Implementing security best practices to prevent common vulnerabilities (e.g., SQL injection, Cross-Site Scripting).
+
+## 6. Performance Optimization
+
+- Caching mechanisms for frequently accessed data.
+- Content Delivery Network (CDN) for efficient content distribution.
+
+## 7. Testing
+
+- Unit testing, integration testing, and user acceptance testing.
+- Continuous integration and deployment pipelines.
+
+## 8. Future Enhancements
+
+- Integration with third-party APIs for additional event information.
+- Enhanced recommendation systems for personalized suggestions.
+
+## Conclusion
+
+This technical document outlines the architecture, features, and technologies used in the development of the Ticket Booking App. It serves as a guide for developers, administrators, and stakeholders involved in the project.
 
