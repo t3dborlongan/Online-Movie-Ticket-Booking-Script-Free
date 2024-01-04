@@ -11,9 +11,6 @@
  </div>
 
 ## 2. Technology Stack
-
- 
-<div style="background-color: #f2f2f2">
   <table>
     <thead>
       <tr style="background-color: #f2f2f2;">
@@ -52,7 +49,6 @@
       </tr>
     </tbody>
   </table>
-</div>
 
 
 ## Table with caption, and both class and CSS attributes specified {#table-with-caption-and-both-class-and-css-attributes-specified}
