@@ -1,4 +1,4 @@
-site_name: TheatreBookingWeb
+site_name: TicketBooking
 site_description: This is static description from mkdocs yaml
 
 nav:
