@@ -10,7 +10,8 @@ The Ticket Booking App aims to facilitate the seamless booking of tickets for va
 
 ## 2. System Architecture
  ![/images/TheatreBookingDiagram.png](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png?raw=true)
-| System Component       | Tech Stack        |
+ 
+| System Component| Tech Stack |
 | ------------- | ------------- |
 | Client-side Mobile  | React Native  |
 | Client-side Web  | HTML, CSS, and ReactJS  |
