@@ -14,23 +14,18 @@ Online Movie Ticket Booking Script (Theatre booking system) is a website to prov
 # High Level Architecture
  ![/images/TheatreBookingDiagram.png](https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/blob/master/images/TheatreBookingDiagram.png?raw=true)
 
+<details>
+  <summary>Technical Details</summary>
 # How to Run
 1. Install PHP server xampp
 2. Run it
 3. Clone this repo into htdocs of xampp
 4. Download cinema_choodu.sql file in this repo and import to phpmyadmin or mysql and simple run it.
-
+<details>
+ 
 # SEO Friendly
 ![screen shot 2018-12-09 at 12 04 15 pm](https://user-images.githubusercontent.com/2999586/49694166-89389900-fbaa-11e8-9b64-3d7930176630.png)
 
-
-# Online movie ticket booking script #giveaway
-
-Before forking this repo I would like to clarify few things
-
-1. This code has been written 3 years back after my b.tech completion. Absolutely perfect working code but I didn’t followed standards so please don’t misunderstand me
-2. I still remember those days when I used to go to every theatre  nearer to my hometown. Some added in my site some didn’t. I remember going back home after standing hours near theatre gate. Some years of handwork Im putting and give techies to utilize the code.
-3. Before forking If you like just hit a like and star this repo.
 
 # Admin Panel Details
 <b>Url:</b> http://cinemachoodu.com/admin/zzzxxxmmmvvv.php
