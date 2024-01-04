@@ -10,18 +10,50 @@
   </ol>
  </div>
 
-## 2. System Architecture
+## 2. Technology Stack
 
  
-| System Component| Tech Stack |
-| ------------- | ------------- |
-| Client-side Mobile  | React Native  |
-| Client-side Web  | HTML, CSS, and ReactJS  |
-| Backend Server  | Node.js + Express  |
-| Database  | PostgreSQL  |
-| Authentication  | JSON Web Tokens (JWT)  |
-| Communication  | Restful API  |
-| SEO Friendly  | Yes  |
+<div style="background-color: #f2f2f2">
+  <table>
+    <thead>
+      <tr style="background-color: #f2f2f2;">
+      <th>System Component</th>
+      <th>Tech Stack</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Client-side Mobile</td>
+        <td>React Native</td>
+      </tr>
+      <tr>
+        <td>Client-side Web</td>
+        <td>HTML, CSS, and ReactJS</td>
+      </tr>
+      <tr>
+        <td>Backend Server</td>
+        <td>Node.js + Express</td>
+      </tr>
+      <tr>
+        <td>Database</td>
+        <td>PostgreSQL</td>
+      </tr>
+      <tr>
+        <td>Authentication</td>
+        <td>JSON Web Tokens (JWT)</td>
+      </tr>
+      <tr>
+        <td>Communication</td>
+        <td>Restful API</td>
+      </tr>
+      <tr>
+        <td>SEO Friendly</td>
+        <td>Yes</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 ## Table with caption, and both class and CSS attributes specified {#table-with-caption-and-both-class-and-css-attributes-specified}
 
