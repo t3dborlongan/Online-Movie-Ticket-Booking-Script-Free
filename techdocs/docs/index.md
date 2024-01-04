@@ -1,5 +1,13 @@
 # Ticket Booking App Technical Document
 
+**1. Introduction**
+
+  **1.1 Purpose**
+  The purpose of this document is to provide a comprehensive overview of the technical aspects of the Ticket Booking App. It covers the system architecture, technologies used, and key functionalities.
+
+  **1.2 Scope**
+  The Ticket Booking App aims to facilitate the seamless booking of tickets for various events, movies, or transportation services.
+  
 ## 1. Introduction
 
 ### 1.1 Purpose
