@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: TheatreBookingWeb
+  name: TicketBooking
   description: This is a sample component with Tech Doc implementation.
   annotations:
     github.com/project-slug: https://github.com/t3dborlongan/Online-Movie-Ticket-Booking-Script-Free/tree/master
