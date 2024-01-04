@@ -50,46 +50,26 @@
     </tbody>
   </table>
 
-
-## Table with caption, and both class and CSS attributes specified {#table-with-caption-and-both-class-and-css-attributes-specified}
-
-<style>.my-red-bordered-table table { border: 2px solid red;  }</style>
-
-<div class="ox-hugo-table my-red-bordered-table">
-<div class="table-caption">
-  <span class="table-number">Table 4:</span>
-  Table with caption, class and CSS attributes specified
-</div>
-
-| h1  | h2  | h3  |
-|-----|-----|-----|
-| abc | def | ghi |
-
-</div>
-
-## 3. Key Features
-
-### 3.1 User Authentication
-- Secure user registration and login mechanisms.
-- Password hashing for user credentials.
-
-### 3.2 Event/Movie Listings
-- Display of available events/movies with relevant details.
-- Search and filter functionalities.
-
-### 3.3 Booking and Payment
-- Selection of desired tickets/seats.
-- Integration with payment gateways (e.g., Stripe, PayPal).
-
-### 3.4 User Profiles
-- Personalized user profiles with booking history.
-- Option to save payment methods.
-
-### 3.5 Notifications
-- Real-time notifications for booking confirmations, updates, and reminders.
-
-### 3.6 Admin Panel
-- Administrative interface for managing events, user data, and monitoring system activities.
+ <div>
+  <h2><b>3. Key Features</b></h2>
+  <ol>
+      <h3><b>3.1 User Authentication</b></h3>
+      - Secure user registration and login mechanisms. </br>
+      - Password hashing for user credentials.
+      <h3><b>3.2 Event/Movie Listings</b></h3>
+      The Ticket Booking App aims to facilitate the seamless booking of tickets for various events, movies, or transportation services.
+      <h3><b>3.3 Booking and Payment</b></h3>
+      - Selection of desired tickets/seats. </br>
+      - Integration with payment gateways (e.g., Stripe, PayPal).
+      <h3><b>3.4 User Profiles</b></h3>
+      - Personalized user profiles with booking history. </br>
+      - Option to save payment methods.
+      <h3><b>3.5 Notifications</b></h3>
+      - Real-time notifications for booking confirmations, updates, and reminders.
+      <h3><b>3.6 Admin Panel</b></h3>
+      - Administrative interface for managing events, user data, and monitoring system activities.
+  </ol>
+ </div>
 
 ## 4. Data Storage
 
