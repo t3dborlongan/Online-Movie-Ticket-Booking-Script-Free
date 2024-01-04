@@ -13,7 +13,7 @@
 ## 2. Technology Stack
   <table>
     <thead>
-      <tr style="background-color: #f2f2f2;">
+      <tr style="background-color: #d9d9d9;">
       <th>System Component</th>
       <th>Tech Stack</th>
       </tr>
