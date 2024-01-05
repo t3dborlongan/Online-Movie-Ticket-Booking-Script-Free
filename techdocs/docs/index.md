@@ -32,7 +32,7 @@ The Ticket Booking Api aims to facilitate the seamless booking of tickets for va
 - The data is stored in built-in database for SpringBoot which is H2
 
 
-## 6. Future Enhancements
+## 5. Future Enhancements
 
 - Integration with third-party APIs for additional event information.
 - Enhanced recommendation systems for personalized suggestions.
