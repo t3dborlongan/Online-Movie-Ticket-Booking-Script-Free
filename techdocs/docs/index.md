@@ -1,4 +1,4 @@
-# Ticket Booking API2
+# Ticket Booking API
   
 ## 1. Introduction
 
